@@ -1,0 +1,10 @@
+@"
+__pycache__/
+*.pyc
+.venv/
+venv/
+.streamlit/
+*.zip
+*.docx
+*.pdf
+"@ | Set-Content .gitignore
